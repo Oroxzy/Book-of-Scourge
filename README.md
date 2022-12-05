@@ -11,4 +11,4 @@
 
 ### Recreating the event for VMaNGOS
 
-* Low Level Minions
+* [Low Level Minions](https://github.com/Oroxzy/Book-of-Scourge/wiki/Low-Level-Minions-Respawn)
